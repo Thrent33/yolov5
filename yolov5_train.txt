@@ -1,0 +1,8 @@
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b62c97d9-9204-11ec-8339-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b62e4d13-9204-11ec-858a-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b6301a9e-9204-11ec-8250-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b6334ddf-9204-11ec-b7fb-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b636b39c-9204-11ec-b75d-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b63a337b-9204-11ec-9e78-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b63dca9f-9204-11ec-b7c7-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b63f9db1-9204-11ec-aedc-005056c00008.jpg

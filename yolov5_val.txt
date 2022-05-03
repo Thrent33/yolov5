@@ -1,0 +1,4 @@
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b634fa25-9204-11ec-b374-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b6388710-9204-11ec-abda-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b63bead9-9204-11ec-acf1-005056c00008.jpg
+D:\Program\Python\VSC_torch\yolov5Test\yolov5\VOCdevkit/VOC2007/JPEGImages/iv.b641a5c2-9204-11ec-8598-005056c00008.jpg
