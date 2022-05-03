@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>iv.b634fa25-9204-11ec-b374-005056c00008.jpg</filename>
+	<path>D:\Program\Python\VSC_torch\VOC_iv\JPEGImages\iv.b634fa25-9204-11ec-b374-005056c00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>133</ymin>
+			<xmax>226</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
